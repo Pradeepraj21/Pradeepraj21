@@ -1,4 +1,3 @@
-[![MasterHead](https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif)](https://github.com/Pradeepraj21/)
 <h1 align="center">Hey 👋, I'm Pradeepraj Nadar</h1>
 <h3 align="center">A meticulous and organized individual Passionate in Web Development and Designing.With a Willingness to learn new Technologies.Specialized in front-end development and Website Designing and Expertise in Project Management.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
@@ -25,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradeepraj21&show_icons=true&locale=en" alt="pradeepraj21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepraj21&" alt="pradeepraj21" /></p>
+
+[![MasterHead](https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif)](https://github.com/Pradeepraj21/)
