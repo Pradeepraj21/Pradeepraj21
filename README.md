@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepraj21&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepraj21" /> </p>
 
-- 🔭 I’m currently working as [Software Engineer Intern](@Impactsure Technologies Private Limited)
+- 🔭 I’m currently working as [DevOps Associate](@Impactsure Technologies Private Limited)
 
 - 👨‍💻 All of my projects are available at [https://pradeepraj21.github.io/myPortfolio-React/](https://pradeepraj21.github.io/myPortfolio-React/)
 
