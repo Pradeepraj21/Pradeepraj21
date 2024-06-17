@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Pradeepraj Nadar</h1>
-<h3 align="center">Versatile, analytical and hardworking, self-determined DevOps engineer, with a practical “get the things done” approach, who always preserves to achieve the best results. Passionate about learning new things and leveraging this knowledge as a results-driven DevOps engineer with hands-on experience in designing, implementing, and maintaining cloud-based infrastructure.</h3>
+<h3 align="center">Versatile, analytical and hardworking, self-determined DevOps engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepraj21&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepraj21" /> </p>
